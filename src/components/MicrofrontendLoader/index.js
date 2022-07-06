@@ -1,0 +1,1 @@
+export { MicrofrontendLoader } from './MicrofrontendLoader';

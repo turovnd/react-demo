@@ -1,0 +1,1 @@
+export { AddResByNorms } from './AddResByNorms';

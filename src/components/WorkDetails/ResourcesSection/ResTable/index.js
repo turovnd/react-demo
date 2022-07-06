@@ -1,0 +1,1 @@
+export { ResTable } from './ResTable';

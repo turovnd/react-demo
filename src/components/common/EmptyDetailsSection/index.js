@@ -1,0 +1,1 @@
+export { EmptyDetailsSection } from './EmptyDetailsSection';

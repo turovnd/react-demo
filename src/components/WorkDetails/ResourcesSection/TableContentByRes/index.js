@@ -1,0 +1,1 @@
+export { TableContentByRes } from './TableContentByRes';

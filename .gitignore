@@ -1,0 +1,16 @@
+/coverage
+/demo/dist
+/es
+/lib
+/node_modules
+/umd
+/build
+npm-debug.log*
+package-lock.json
+jsconfig.json
+
+# dotenv environment variables file
+.env
+.idea
+.npmrc
+.DS_Store

@@ -1,0 +1,1 @@
+export { ResTypeRow } from './ResTypeRow';

@@ -1,0 +1,1 @@
+export { LinkedTable } from './LinkedTable';
